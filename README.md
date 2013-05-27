@@ -10,6 +10,21 @@ The simplicity of it has made it possible for all sorts of resources and “hack
 Here are some that I’ve found…
 
 
+20 awesome resources
+--------------------
+
+http://designshack.net/articles/css/20-awesome-resources-for-twitter-bootstrap-lovers/
+
+
+Bootstrap Fireworks
+-------------------
+
+http://www.extendingfireworks.com/
+This is a completely vector based UI toolkit built to mirror Twitter Bootstrap. This is great if you’re not a coder or just need to have a place to shuffle the pieces around without bothering with CSS.
+
+This kit was created based on Twitter Bootstrap 2 so it should be up to date with elements that look just like they will in CSS. 
+
+
 Beautiful Buttons
 -----------------
 
